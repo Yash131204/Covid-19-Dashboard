@@ -71,10 +71,10 @@ You can explore the dashboard by downloading the Power BI file:
 
 ## 👩‍💻 Created By:
 
-**Pooja Choudhary**  
+**Yash Dashetwar**  
 🎓 BCA (Data Science) | 2023–2026  
 📍 Sri Balaji University, Pune  
-🌐 [GitHub Profile](https://github.com/PoojaChoudhary-01)
+🌐 [GitHub Profile](https://github.com/Yash131204)
 
 ---
 
